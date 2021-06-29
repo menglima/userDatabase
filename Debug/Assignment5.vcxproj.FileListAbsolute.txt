@@ -1,3 +1,0 @@
-C:\Users\menglima\Documents\School\Junior\Semester 2\Applied Programming Concepts\5_Implementation\Assignment5\Debug\Assignment5.exe
-C:\Users\menglima\Documents\School\Junior\Semester 2\Applied Programming Concepts\5_Implementation\Assignment5\Debug\Assignment5.vcxproj.CopyComplete
-C:\Users\menglima\Documents\School\Junior\Semester 2\Applied Programming Concepts\5_Implementation\Assignment5\Debug\sqlite3.dll
