@@ -8,6 +8,7 @@
 
 using namespace std;
 
+#pragma region Callback Functions
 /*************************************************************************************************
  The callback() function is invoked for each result row coming out of the evaluated SQL statement
  1st argument - the 4th argument provided by sqlite3_exec() and is typically not used
@@ -154,7 +155,7 @@ static int adminLogin(void* data, int argc, char** argv, char** azColName)
     }
     return 0;
 }
-
+#pragma endregion
 
 #pragma region User
 //base class - user
@@ -420,6 +421,8 @@ public:
 
         string remove("DELETE from COURSES WHERE COURSES.CRN = ('" + crn + "');");
         exit = sqlite3_exec(DB, remove.c_str(), callback, NULL, NULL);
+
+        cout << "Course removed successfully.\n";
 
     }//end function
     void searchCourse()
