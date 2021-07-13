@@ -1,0 +1,3 @@
+C:\Users\menglima\Documents\School\Junior\Semester 2\Applied Programming Concepts\6_Testing\Assignment6\Debug\Assignment6.vcxproj.CopyComplete
+C:\Users\menglima\Documents\School\Junior\Semester 2\Applied Programming Concepts\6_Testing\Assignment6\Debug\Assignment6.exe
+C:\Users\menglima\Documents\School\Junior\Semester 2\Applied Programming Concepts\6_Testing\Assignment6\Debug\sqlite3.dll
